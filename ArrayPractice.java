@@ -25,7 +25,6 @@ public void arrayDemo(){
     // print the length and print each element using loop
         int [] number = {10, 20, 30, 40, 50};
         float[] stocks = {100.34f, 400.5456f, 200.45454f, 454.45456f};
-
     }
 
     // Here name is Array Variable
